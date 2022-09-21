@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mohammad Wardat"
-  avatar           : "profile.png"
+  avatar           : "78451.jpg"
   bio              : "Ph.D. Candidate at ISU | Applied Scientist Intern @ Microsoft"
   location         : "Ames, Iowa"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=04sYwigAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.cs.iastate.edu/wardat"
