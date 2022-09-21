@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &@mawardat12
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammad Wardat"
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "profile.png"
   bio              : "Ph.D. Candidate at ISU | Applied Scientist Intern @ Microsoft"
   location         : "Ames, Iowa"
   employer         :
@@ -89,7 +89,7 @@ author:
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.cs.iastate.edu/wardat"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mohammad-wardat/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@mawardat12"
   vine             :
   weibo            :
   xing             :
