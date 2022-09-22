@@ -71,7 +71,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and Leadership
+Services
 ======
 * Dec. 2021: Reviewer for TOSEM
 * Nov. 2021: Student Volunteer at the SPLASH’21 Conference (Chicago, IL)
