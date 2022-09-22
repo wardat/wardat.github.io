@@ -25,15 +25,15 @@ Research Interests
 
 Honors & Awards
 ======
-* Iowa State University Publication Award
+* Apr. 2022: Iowa State University Publication Award
   * Award for publication at ICSE 2022.
-* Iowa State University Publication Award
+* Apr. 2021: Iowa State University Publication Award
   * Award for publication at ICSE 2021.
-* ACM Travel Grant
+* Jun. 2019: ACM Travel Grant
   * Travel award for attending IMA Workshop at University of Minnesota.
 
 
-  
+
 <!-- 
 Site-wide configuration
 ------

@@ -57,4 +57,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Dec. 2021: Reviewer for TOSEM
+* Nov. 2021: Student Volunteer at the SPLASH’21 Conference (Chicago, IL)
+* Nov. 2020: Student Volunteer at the SPLASH’20 Conference (Virtual)
+
