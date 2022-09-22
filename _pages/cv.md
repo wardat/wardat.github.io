@@ -28,14 +28,13 @@ Work experience
   * Duties included: Contributed to discussions and brainstorming sessions for natural language code search models and improvements to existing models.
   * Supervisor: Dr. Neel Sundaerson and Dr. Alexey Svyatkovskiy
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning: Scikit-Learn, TensorFlow, Keras, and PyTorch
+* Languages: C++, C#.Net, VB.Net, Java, HTML, JavaScript, and Python
+* Tools: Cplex, Weka, RapidMiner, Visual Studio 2022, Oracle 10g, MySQL, NetBeans, and Eclipse
+* Operating Systems: Mac, Linux, and Windows
+
 
 Publications
 ======
