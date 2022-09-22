@@ -33,9 +33,16 @@ Work experience
   * Duties included: Recitation of the lab sections and grading activities
 
 * Sep. 2015 - Jun. 2017: Computer Teacher
-  * The International School of Choueifat
+  * Jordan University of Science and Technology
   * Duties included: Planned, taught, and assessed 7th – 12th grade computer classes
 
+* Sep. 2014 - Aug. 2015: Lecturer
+  * Jordan University of Science and Technology
+  * Duties included:  Taught courses on programming languages
+
+* Sep. 2012 - Aug. 2014: Teaching Assistant
+  * The International School of Choueifat
+  * Duties included: Taught various labs and assisting in teaching/grading various courses
 
 
 Technical Skills
