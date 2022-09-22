@@ -30,7 +30,13 @@ Work experience
   
 * Sep. 2017 – Jun. 2019: Teaching Assistant
   * Iowa State University
-  * Duties included: •	Recitation of the lab sections and grading activities
+  * Duties included: Recitation of the lab sections and grading activities
+
+* Sep. 2015 - Jun. 2017: Computer Teacher
+  * The International School of Choueifat
+  * Duties included: Planned, taught, and assessed 7th – 12th grade computer classes
+
+
 
 Technical Skills
 ======
