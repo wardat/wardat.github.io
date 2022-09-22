@@ -22,6 +22,15 @@ Research Interests
  2. Data Science and Machine Learning.
  3. Data Mining and Cloud Computing.
 
+
+Honors & Awards
+======
+* Iowa State University Publication Award
+  * Award for publication at ICSE 2022.
+* Iowa State University Publication Award
+  * Award for publication at ICSE 2021.
+* ACM Travel Grant
+  * Travel award for attending IMA Workshop at University of Minnesota.
 <!-- 
 Site-wide configuration
 ------
