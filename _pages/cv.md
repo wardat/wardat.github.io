@@ -16,18 +16,17 @@ Education
 * B.S. in Computer Science, Jordan University of Science and Technology, 2012
 
 
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul. 2018 – Present: Graduate Research Assistant
+  * Iowa State University
+  * Duties included:  Researching fault localization for deep neural networks (DNNs)
+  * Supervisor: Dr. Hridesh Rajan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June. 2022 – Aug. 2022: Applied Scientist Intern
+  * Microsoft Corporation
+  * Duties included: Contributed to discussions and brainstorming sessions for natural language code search models and improvements to existing models.
+  * Supervisor: Dr. Neel Sundaerson and Dr. Alexey Svyatkovskiy
   
 Skills
 ======
