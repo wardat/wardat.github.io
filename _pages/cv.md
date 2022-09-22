@@ -28,6 +28,10 @@ Work experience
   * Duties included: Contributed to discussions and brainstorming sessions for natural language code search models and improvements to existing models.
   * Supervisor: Dr. Neel Sundaerson and Dr. Alexey Svyatkovskiy
   
+* Sep. 2017 – Jun. 2019: Teaching Assistant
+  * Iowa State University
+  * Duties included: •	Recitation of the lab sections and grading activities
+
 Technical Skills
 ======
 * Machine Learning: Scikit-Learn, TensorFlow, Keras, and PyTorch
@@ -54,7 +58,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Dec. 2021: Reviewer for TOSEM
 * Nov. 2021: Student Volunteer at the SPLASH’21 Conference (Chicago, IL)
