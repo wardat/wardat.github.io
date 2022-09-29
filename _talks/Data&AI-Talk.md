@@ -1,11 +1,11 @@
 ---
-title: "DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs"
+title: "Fault Localization for Deep Neural Networks"
 collection: talks
 type: "Talk"
-permalink: /talks/DeepDiagnosis-Talk
-venue: "ICSE '22: 44th International Conference on Software Engineering"
-date: 2021-05-9
-location: "In-Person ( Pittsburgh, USA )"
+permalink: /talks/Data&AI-Talk
+venue: "Microsoft-Data&AI Lab "
+date: 2021-04-27
+location: "Virtual"
 ---
 
 [More information here](https://conf.researchr.org/details/icse-2022/icse-2022-papers/35/DeepDiagnosis-Automatically-Diagnosing-Faults-and-Recommending-Actionable-Fixes-in-D)
