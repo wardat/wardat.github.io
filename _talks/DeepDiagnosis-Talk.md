@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/DeepDiagnosis-Talk
 venue: "ICSE '22: 44th International Conference on Software Engineering"
-date: 2021-05-9
+date: 2022-05-9
 location: "In-Person ( Pittsburgh, USA )"
 ---
 
