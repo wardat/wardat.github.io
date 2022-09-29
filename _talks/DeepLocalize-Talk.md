@@ -2,7 +2,7 @@
 title: "DeepLocalize: Fault Localization for Deep Neural Networks"
 collection: talks
 type: "Talk"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/DeepLocalize-Talk
 venue: "ICSE '21: 43rd International Conference on Software Engineering"
 date: 2021-05-25
 location: "Virtual (originally in Madrid, Spain)"
