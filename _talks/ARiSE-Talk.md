@@ -3,9 +3,9 @@ title: "Fault Localization for Deep Neural Networks"
 collection: talks
 type: "Talk"
 permalink: /talks/ARiSE-Talk
-venue: "ICSE '22: 44th International Conference on Software Engineering"
+venue: "Columbia University-ARiSE Lab"
 date: 2021-03-21
-location: "In-Person ( Pittsburgh, USA )"
+location: "Virtual"
 ---
 
 [More information here](https://conf.researchr.org/details/icse-2022/icse-2022-papers/35/DeepDiagnosis-Automatically-Diagnosing-Faults-and-Recommending-Actionable-Fixes-in-D)
