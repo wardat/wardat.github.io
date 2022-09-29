@@ -77,3 +77,7 @@ Services
 * Nov. 2021: Student Volunteer at the SPLASH’21 Conference (Chicago, IL)
 * Nov. 2020: Student Volunteer at the SPLASH’20 Conference (Virtual)
 
+Affiliation
+======
+* 2019–2022: Student member of Association for Computing Machinery (ACM)
+* 2019–2022 SIGSOFT & SIGPLAN: Member of the ACM SIGSOFT and ACM SIGPLAN 
