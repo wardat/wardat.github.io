@@ -1,7 +1,7 @@
 ---
 title: "Topical search engine for Internet of Things"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-7
 excerpt: ''
 date: 2015-10-01
 venue: '2014 IEEE/ACS 11th International Conference on Computer Systems and Applications (AICCSA), (Doha, Qatar)'

@@ -12,4 +12,5 @@ Abstract: Deep Neural Networks (DNNs) are used in a wide variety of applications
 
 <!-- [Download paper here](http://wardat.github.io/files/DeepDiagnosis.pdf) -->
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1."  -->
+<i>Journal 1</i>. 1(1).

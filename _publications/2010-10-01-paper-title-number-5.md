@@ -1,7 +1,7 @@
 ---
 title: "Sentiment analysis for Arabizi text"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-5
 excerpt: ''
 date: 2016-04-07
 venue: 'ICICS 2016 : The 7th International Conference on Information and Communication Systems, (Irbid, Jordan)'
