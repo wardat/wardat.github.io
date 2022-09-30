@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is under review.'
 date: 2015-10-01
-venue: 'Journal 1'
+venue: 'Submitted to Conference'
 paperurl: ''
 citation: 'Mohammad Wardat, Breno Dantas Cruz, Wei Le, and Hridesh Rajan. Deep4Deep: Using Deep Learning to Detect Deep Learning Bugs. (Under Review).'
 ---
