@@ -1,11 +1,11 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Jordan University of Science and Technology, Computer Science"
-date: 2012-09-01
-location: "Irbid, Jordan"
+type: "Undergraduate Courses"
+permalink: /teaching/Teaching-Assistant-ISU
+venue: "Iowa State University, Computer Science"
+date: 2017-01-01
+location: "Iowa, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

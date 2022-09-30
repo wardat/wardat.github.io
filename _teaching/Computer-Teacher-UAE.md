@@ -1,8 +1,8 @@
 ---
 title: "Computer Teacher"
 collection: teaching
-type: "High School Course"
-permalink: /teaching/2014-spring-teaching-3
+type: "High School Courses"
+permalink: /teaching/Computer-Teacher-UAE
 venue: "The International School of Choueifat, Computer Science"
 date: 2015-09-01
 location: "Al-Ain, UAE"
