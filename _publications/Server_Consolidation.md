@@ -1,7 +1,7 @@
 ---
 title: "Cloud data centers revenue maximization using server consolidation: Modeling and evaluation."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-4
+permalink: /publication/Server_Consolidation
 excerpt: ''
 date: 2018-04-15
 venue: 'IEEE INFOCOM 2018 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), (Honolulu, USA)'

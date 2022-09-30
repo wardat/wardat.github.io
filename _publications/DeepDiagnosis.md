@@ -1,7 +1,7 @@
 ---
 title: "DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/DeepDiagnosis
 excerpt: ''
 date: 2022-05-09
 venue: 'ICSE 22: 44th International Conference on Software Engineering, (Pittsburgh, USA)'
