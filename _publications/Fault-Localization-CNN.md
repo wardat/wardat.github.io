@@ -1,7 +1,7 @@
 ---
 title: "Fault Localization of Performance-Related Bugs in Convolutional Neural Networks"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-10
+permalink: /publication/Fault-Localization-CNN
 excerpt: 'This paper is under review'
 date: 2015-10-01
 venue: ''

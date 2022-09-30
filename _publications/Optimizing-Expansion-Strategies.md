@@ -1,7 +1,7 @@
 ---
 title: "Optimizing expansion strategies for ultrascale cloud computing data centers"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-6
+permalink: /publication/Optimizing-Expansion-Strategies
 excerpt: ''
 date: 2015-10-01
 venue: 'Simulation Modelling Practice and Theory, (Journal)'

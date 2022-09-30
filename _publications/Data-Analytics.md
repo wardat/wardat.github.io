@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Study on Bugs in Data Analytics Programs"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-11
+permalink: /publication/Data-Analytics
 excerpt: 'This paper is under review.'
 date: 2015-10-01
 venue: ''

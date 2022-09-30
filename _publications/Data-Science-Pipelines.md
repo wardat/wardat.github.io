@@ -1,7 +1,7 @@
 ---
 title: "The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Data-Science-Pipelines
 excerpt: ''
 date: 2022-05-11
 venue: 'ICSE 22: 44th International Conference on Software Engineering, In-Person (Pittsburgh, USA)'

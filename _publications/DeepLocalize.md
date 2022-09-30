@@ -1,9 +1,9 @@
 ---
 title: "DeepLocalize: Fault Localization for Deep Neural Networks"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/DeepLocalize
 excerpt: ''
-date: 2015-10-01
+date: 2021-05-25
 venue: 'ICSE 21: 43rd International Conference on Software Engineering, (Madrid, Spain)'
 paperurl: 'http://wardat.github.io/files/DeepLocalize.pdf'
 citation: 'Mohammad Wardat, Wei Le, and Hridesh Rajan. "DeepLocalize: Fault Localization for Deep Neural Networks." 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). IEEE, 2021.'
@@ -12,4 +12,4 @@ Abstract: Deep neural networks (DNNs) are becoming an integral part of most soft
 
 <!-- [Download paper here](http://wardat.github.io/files/DeepLocalize.pdf) -->
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+<i>Journal 1</i>. 1(3).

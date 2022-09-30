@@ -1,7 +1,7 @@
 ---
 title: "To build or not to build? addressing the expansion strategies of cloud providers"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-8
+permalink: /publication/Expansion-Strategies
 excerpt: ''
 date: 2014-08-28
 venue: '2014 International Conference on Future Internet of Things and Cloud (FiCloud 2014): Barcelona, Spain'
