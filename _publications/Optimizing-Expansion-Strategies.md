@@ -13,4 +13,4 @@ Abstract: With the increasing popularity gained by cloud computing systems over 
 
 <!-- [Download paper here](http://wardat.github.io/files/Optimizing_Expansion.pdf) -->
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+<i>Journal 1</i>. 1(3).
