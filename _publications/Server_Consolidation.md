@@ -12,4 +12,4 @@ Abstract: Cloud based data centers (DC) offering of virtually unlimited processi
 
 <!-- [Download paper here](http://wardat.github.io/files/server_consolidation.pdf) -->
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<i>Journal 1</i>. 1(1).
