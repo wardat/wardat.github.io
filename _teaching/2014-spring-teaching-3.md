@@ -1,11 +1,11 @@
 ---
-title: "Teaching Assistant"
+title: "Computer Teacher"
 collection: teaching
-type: "Undergraduate course"
+type: "High School Course"
 permalink: /teaching/2014-spring-teaching-3
-venue: "Jordan University of Science and Technology, Computer Science"
-date: 2012-09-01
-location: "Irbid, Jordan"
+venue: "The International School of Choueifat, Computer Science"
+date: 2015-09-01
+location: "Al-Ain, UAE"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
