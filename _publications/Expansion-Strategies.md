@@ -12,4 +12,4 @@ Abstract: With the increasing popularity gained by cloud computing systems, clou
 
 <!-- [Download paper here](http://wardat.github.io/files/Build_OR_NOT.pdf) -->
 
-<i>Journal 1</i>. 1(3).
+<i>No. 8</i>

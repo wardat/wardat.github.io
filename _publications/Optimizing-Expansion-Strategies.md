@@ -13,4 +13,4 @@ Abstract: With the increasing popularity gained by cloud computing systems over 
 
 <!-- [Download paper here](http://wardat.github.io/files/Optimizing_Expansion.pdf) -->
 
-<i>Journal 1</i>. 1(3).
+<i>No. 6</i>

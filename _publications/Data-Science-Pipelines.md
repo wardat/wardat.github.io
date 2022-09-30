@@ -12,4 +12,4 @@ Abstract: Increasingly larger number of software systems today are including dat
 
 <!-- [Download paper here](http://wardat.github.io/files/Pipelines.pdf) -->
 
-<i>Journal 1</i>. 1(2).
+<i>No. 2</i>

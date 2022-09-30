@@ -12,4 +12,4 @@ This paper is under review.
 
 <!-- [Download paper here]() -->
 
-<i>Journal 1</i>. 1(3).
+<i>No. 11/i>

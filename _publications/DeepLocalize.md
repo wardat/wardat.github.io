@@ -12,4 +12,4 @@ Abstract: Deep neural networks (DNNs) are becoming an integral part of most soft
 
 <!-- [Download paper here](http://wardat.github.io/files/DeepLocalize.pdf) -->
 
-<i>Journal 1</i>. 1(3).
+<i>No. 3</i>

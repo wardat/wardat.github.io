@@ -11,4 +11,4 @@ citation: 'Mohammad Wardat, Breno Dantas Cruz, Wei Le, and Hridesh Rajan. Deep4D
 This paper is under review.
 
 <!-- [Download paper here]() -->
-<i>Journal 1</i>. 1(3).
+<i>No. 9</i>

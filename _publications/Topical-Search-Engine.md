@@ -12,4 +12,4 @@ Abstract: Internet of Things (IoT) has become a common buzzword nowadays in the 
 
 <!-- [Download paper here](http://wardat.github.io/files/Topical_search.pdf) -->
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+<i>No. 7</i>

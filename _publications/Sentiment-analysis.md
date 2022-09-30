@@ -12,4 +12,4 @@ Abstract: This paper has used supervised learning to assign sentiment or polarit
 
 <!-- [Download paper here](http://wardat.github.io/files/Sentiment_analysis.pdf) -->
 
-<i>Journal 1</i>. 1(2).
+<i>No. 5</i>
