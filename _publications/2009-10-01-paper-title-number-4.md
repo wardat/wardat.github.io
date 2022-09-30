@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-4
 excerpt: ''
 date: 2018-04-15
-venue: 'IEEE INFOCOM 2018 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS Honolulu, HI, USA'
+venue: 'IEEE INFOCOM 2018 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), (Honolulu, USA)'
 paperurl: 'http://wardat.github.io/files/server_consolidation.pdf'
 citation: 'Mohammad Wardat, Mahmoud Al-Ayyoub, Yaser Jararweh, and Abdallah A. Khreishah."Cloud data centers revenue maximization using server consolidation: Modeling and evaluation." IEEE INFOCOM 2018-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS). IEEE, 2018.'
 ---

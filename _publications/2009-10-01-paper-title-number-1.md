@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2022-05-09
-venue: 'ICSE 22: 44th International Conference on Software Engineering, In-Person ( Pittsburgh, USA'
+venue: 'ICSE 22: 44th International Conference on Software Engineering, (Pittsburgh, USA)'
 paperurl: 'http://wardat.github.io/files/DeepDiagnosis.pdf'
 citation: 'Mohammad Wardat, Breno Dantas Cruz, Wei Le, and Hridesh Rajan. "DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs." 2021 IEEE/ACM 44th International Conference on Software Engineering (ICSE). IEEE, 2022.'
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2015-10-01
-venue: 'Journal 1'
+venue: 'Simulation Modelling Practice and Theory, (Journal)'
 paperurl: 'http://wardat.github.io/files/Optimizing_Expansion.pdf'
 citation: 'Mahmoud Al-Ayyoub, Mohammad Wardat, Yaser Jararweh, and Abdallah A. Khreishah. "Optimizing expansion strategies for ultrascale cloud computing data centers." Simulation Modelling Practice and Theory 58 (2015): 15-29.'
 ---

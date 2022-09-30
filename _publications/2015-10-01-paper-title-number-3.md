@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2015-10-01
-venue: 'Journal 1'
+venue: 'ICSE 21: 43rd International Conference on Software Engineering, (Madrid, Spain)'
 paperurl: 'http://wardat.github.io/files/DeepLocalize.pdf'
 citation: 'Mohammad Wardat, Wei Le, and Hridesh Rajan. "DeepLocalize: Fault Localization for Deep Neural Networks." 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). IEEE, 2021.'
 ---

@@ -3,8 +3,8 @@ title: "To build or not to build? addressing the expansion strategies of cloud p
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2014-08-28
+venue: '2014 International Conference on Future Internet of Things and Cloud (FiCloud 2014): Barcelona, Spain'
 paperurl: 'http://wardat.github.io/files/Build_OR_NOT.pdf'
 citation: 'Mohammad Wardat, Mahmoud Al-Ayyoub, Yaser Jararweh, and Abdallah A. Khreishah. "To build or not to build? addressing the expansion strategies of cloud providers." 2014 International Conference on Future Internet of Things and Cloud. IEEE, 2014.'
 ---
