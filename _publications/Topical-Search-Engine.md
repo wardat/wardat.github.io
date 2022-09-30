@@ -3,7 +3,7 @@ title: "Topical search engine for Internet of Things"
 collection: publications
 permalink: /publication/Topical-Search-Engine
 excerpt: ''
-date: 2015-10-01
+date: 2014-11-11
 venue: '2014 IEEE/ACS 11th International Conference on Computer Systems and Applications (AICCSA), (Doha, Qatar)'
 paperurl: 'http://wardat.github.io/files/Topical_search.pdf'
 citation: 'Mosab Faqeeh, Mahmoud Al-Ayyoub, Mohammad Wardat, Ismail Hmeidi, and Yaser Jararweh. "Topical search engine for Internet of Things." 2014 IEEE/ACS 11th International Conference on Computer Systems and Applications (AICCSA). IEEE, 2014.'
