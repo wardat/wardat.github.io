@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://wardat.github.io/files/Build_OR_NOT.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Mohammad Wardat, Mahmoud Al-Ayyoub, Yaser Jararweh, and Abdallah A. Khreishah. "To build or not to build? addressing the expansion strategies of cloud providers." 2014 International Conference on Future Internet of Things and Cloud. IEEE, 2014.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
