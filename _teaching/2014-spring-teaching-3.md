@@ -1,10 +1,10 @@
 ---
-title: "Lecturer"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-3
 venue: "Jordan University of Science and Technology, Computer Science"
-date: 2015-01-01
+date: 2012-09-01
 location: "Irbid, Jordan"
 ---
 
