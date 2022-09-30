@@ -10,6 +10,6 @@ citation: 'Shibbir Ahmed, Mohammad Wardat, Hamid Bagheri, Breno Dantas Cruz, and
 ---
 This paper is under review.
 
-[Download paper here]()
+<!-- [Download paper here]() -->
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

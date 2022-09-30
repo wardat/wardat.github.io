@@ -10,6 +10,6 @@ citation: 'Mohammad Wardat, Mahmoud Al-Ayyoub, Yaser Jararweh, and Abdallah A. K
 ---
 Cloud based data centers (DC) offering of virtually unlimited processing and storage capabilities faced a critical downside related to the enormous power consumption requirements. Powering and cooling DC has considerable share of the total DC operational costs in addition to the carbon tax. Server consolidation has been proposed as one viable solution that guarantees efficient power usage while maintaining quality of service requirements for the DC's services. This approach is simply about turning on and off the DC resources based on the incoming workload. In this paper, we are extending our previous work on expansion strategies for cloud services providers by considering the server consolidation technique in order to maximize the DC revenues while maintaining their service quality and reducing their carbon footprints.
 
-[Download paper here](http://wardat.github.io/files/server_consolidation.pdf)
+<!-- [Download paper here](http://wardat.github.io/files/server_consolidation.pdf) -->
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
