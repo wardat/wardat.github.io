@@ -31,10 +31,10 @@ Honors & Awards
 
 Research Interests
 ======
- 1. Software Engineering for Artificial Intelligence (AI) and Program Analysis
- 2. Data Science and Machine Learning.
- 3. Data Mining and Cloud Computing.
-
+1. Software Engineering and Program Analysis.
+2. Intersection of Software Engineering and Machine Learning.
+3. Data Science and Machine Learning.
+4. Data Mining and Cloud Computing.
 
 <!-- 
 Site-wide configuration
