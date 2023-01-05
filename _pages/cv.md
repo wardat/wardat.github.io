@@ -73,6 +73,7 @@ Teaching
   
 Services
 ======
+* Dec. 2022: Junior PC Member for MSR’23 Conference
 * Dec. 2021: Reviewer for TOSEM
 * Nov. 2021: Student Volunteer at the SPLASH’21 Conference (Chicago, IL)
 * Nov. 2020: Student Volunteer at the SPLASH’20 Conference (Virtual)
