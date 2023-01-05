@@ -20,6 +20,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Honors & Awards
 ======
+* Dec. 2022: Iowa State University Research Excellence Award
+  * Award for recognizing outstanding research.
 * Apr. 2022: Iowa State University Publication Award
   * Award for publication at ICSE 2022.
 * Apr. 2021: Iowa State University Publication Award
