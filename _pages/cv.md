@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Iowa State University, 2023 (expected)
+* Ph.D in Computer Science, Iowa State University, 2023
 * M.S. in Computer Science, Jordan University of Science and Technology, 2014
 * B.S. in Computer Science, Jordan University of Science and Technology, 2012
 
